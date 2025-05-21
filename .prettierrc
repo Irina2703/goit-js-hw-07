@@ -1,0 +1,8 @@
+{
+    "name": "goit-js-hw-04",
+    "lockfileVersion": 3,
+    "requires": true,
+    "scripts": {
+        "dev": "node js/task-1.js && node js/task-2.js && node js/task-3.js"
+    }
+}
